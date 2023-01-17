@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/models/static/css/main.85c232df.css",
+    "main.js": "/models/static/js/main.b6e9ba41.js",
+    "static/media/Chibi_Pet_07_04.glb": "/models/static/media/Chibi_Pet_07_04.a5960a718461e730dd09.glb",
+    "index.html": "/models/index.html",
+    "main.85c232df.css.map": "/models/static/css/main.85c232df.css.map",
+    "main.b6e9ba41.js.map": "/models/static/js/main.b6e9ba41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c232df.css",
+    "static/js/main.b6e9ba41.js"
+  ]
+}
